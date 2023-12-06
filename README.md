@@ -10,7 +10,7 @@ __PKT VLSM:__ [VLSM PKT D08](https://drive.google.com/file/d/1uYfPfVMBkqEj-0JNkC
 __GNS3 CIDR:__ [CIDR GNS3 D08](https://drive.google.com/file/d/1gIK1_YBB3VEAqkO0yveMyvRhctwKlmey/view?usp=sharing)<br>
 __TREE VLSM:__ [Tree VLSM D08](https://drive.google.com/file/d/17ej-LO1PCHJkDfk7AEsO6os2MxRL-Diu/view?usp=sharing)<br>
 __TREE CIDR:__ [Tree CIDR D08](https://drive.google.com/file/d/1cnMaacD1mONb-nF0Q8T4DpSt_pkiA8yg/view?usp=sharing)<br>
-__DETAIL IP:__ [Tabel IP D08](https://docs.google.com/spreadsheets/d/1Lgq0Sz7B0TTtIRlqcLAwGYDS7Eg_C8UXXyhWM1G7EXA/edit?usp=sharing)
+__DETAIL IP:__ [Tabel IP D08](https://docs.google.com/spreadsheets/d/1Lgq0Sz7B0TTtIRlqcLAwGYDS7Eg_C8UXXyhWM1G7EXA/edit?usp=sharing)<br>
 __DETAIL IP GNS3:__ [IP GNS3 D08](https://docs.google.com/document/d/1a7ROE30dU5uKLNO18B8nhtG-gM1ttSDy_YoHVvwN4nU/edit?usp=sharing)
 
 
